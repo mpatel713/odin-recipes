@@ -1,0 +1,61 @@
+.body {
+    background-color: darkcyan;
+}
+
+.heading {
+    color: white;
+    background-color: teal;
+    font-weight: bold;
+    text-align: center;
+}
+
+.heading .index {
+    font-size: 100px;
+}
+
+.heading .pasta {
+    font-size: 30px;
+}
+
+.index-page {
+    color: white;
+    background-color: turquoise;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.sub-headings {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: teal;
+}
+
+.lists {
+    font-size: large;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+.cake {
+    font-size: 25px;
+}
+
+a {
+    color: white;
+}
